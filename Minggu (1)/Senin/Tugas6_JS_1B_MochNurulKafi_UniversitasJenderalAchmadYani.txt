@@ -1,0 +1,2 @@
+link repository : https://github.com/mbkmmochnurulkafi/kampus-merdeka.git
+langsung ke branch js-tugas6: https://github.com/mbkmmochnurulkafi/kampus-merdeka/tree/js_tugas6
