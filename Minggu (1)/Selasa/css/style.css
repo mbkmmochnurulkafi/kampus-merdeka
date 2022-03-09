@@ -1,0 +1,31 @@
+body {
+  background: #fff5b4;
+  font-family: "Poppins";
+}
+.card-color{
+  background: #ffa580;
+  color: #fff;
+  font-size: 20px;
+}
+.card-body-color{
+  background: #f8f4e5;
+  color: #ffa580;
+}
+.form-control,.table thead{
+  background: #95a4ff;
+  color :#fff;
+}
+.form-control:focus{
+   background: #95a4ff;
+   color :#fff;
+}
+
+.button{
+  width: max-content;
+  background: #ffa580;
+  color: #fff;
+ }
+tbody{
+  background: #95a4ff;
+   color :#fff;
+}

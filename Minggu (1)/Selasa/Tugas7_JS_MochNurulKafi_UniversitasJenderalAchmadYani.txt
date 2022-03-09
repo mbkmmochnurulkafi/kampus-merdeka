@@ -1,0 +1,2 @@
+link repository: https://github.com/mbkmmochnurulkafi/kampus-merdeka.git
+link branch : https://github.com/mbkmmochnurulkafi/kampus-merdeka/tree/js_tugas7
