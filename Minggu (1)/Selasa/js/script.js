@@ -55,6 +55,7 @@ class gempa{
     }
 }
 
+//menampilkan data kedalam table
 let tag = "";
 let no;
 for (const key in data_gempa) {
