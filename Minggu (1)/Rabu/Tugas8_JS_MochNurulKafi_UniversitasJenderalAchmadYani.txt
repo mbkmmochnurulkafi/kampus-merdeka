@@ -1,1 +1,2 @@
 link branch : https://github.com/mbkmmochnurulkafi/kampus-merdeka/tree/js_tugas8
+link repository : https://github.com/mbkmmochnurulkafi/kampus-merdeka
